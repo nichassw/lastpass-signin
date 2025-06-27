@@ -1,4 +1,4 @@
-How Do I Sign In to My Lastpass Account Quickly?
+How to Sign In to My Lastpass Account Quickly?
 ============================================
 
 .. toctree::
